@@ -9,13 +9,45 @@ body{
     text-align: center;
     font-size:  0.24px;
 }
-.p2{
-    font-family: Arial, Helvetica, sans-serif;}
 
-.p3{
+.imag1{
+  width: 30%;
+  text-align: center; 
+  margin: 0 auto;
+  display: block; 
 }
 
-    
+.p2{
+  text-align: center;}
+
+.p3{
+  text-align: center;
+}
+
+.p4{
+  text-align: center;
+}
+
+.p5{
+  text-align: center;
+}
+.p6{
+  text-align: center;
+}
+
+.p7{
+  text-align: center;
+}
+.sp1{
+  text-align: center;
+}
+  
+.ha1{
+  text-align: center;
+  font-size: 40px;
+  color:rgb(5, 58, 0);
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .table-container {
     margin: 0 auto;
@@ -28,8 +60,8 @@ body{
   }
   
   th, td {
-    border: 2px solid black;
-    padding: 10px;
+    border: 1px solid black;
+    padding: 15px;
     text-align: center;
   }
   
@@ -41,12 +73,39 @@ body{
 .lc1{
     color: rgb(5, 58, 0);
     text-align: center;
+    font-size: 40px;
+}
 
+.p8{
+  text-align: center;
+}
+
+.p9{
+  text-align: center;
+}
+
+.p10{
+  text-align: center;
+}
+
+.p11{
+  text-align: center;
+}
+
+.p12{
+  text-align: center;
 }
 
 .al1{
     list-style-type: disc;
-    color: red;
+    color: rgb(5, 58, 0);
+    font-size: 40px;
+}
+
+.yt01{
+  text-align: center;
+  color: rgb(5, 58, 0);
+  font-size: 40px;
 }
 
 .yt1{
@@ -54,10 +113,21 @@ body{
     margin: 0 auto;
 }
 
+.md1{ 
+  text-align: center;
+  font-size: 40px;
+  color: rgb(5, 58, 0);
+}
 
+.m3{
+  font-size: 20px;
+
+}
 
 .pet1{
     text-align: center;
+    font-size: 40px;
+    color: rgb(5, 58, 0);
 }
 
 
@@ -75,3 +145,5 @@ body{
     color: green;
     text-decoration: underline;
   }
+
+
